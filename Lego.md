@@ -7,6 +7,7 @@
 	- features
 		- lazy loading
 		- animation and UI effect
+		- Load/cache API data based on if the tab is active/visited
 	- React Example: [reach-ui/tab](https://reach.tech/tabs)
 
 - Toast
