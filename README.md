@@ -11,7 +11,7 @@
 # Ajax interaction and data parse
 
 - [qs](https://www.npmjs.com/package/qs): A querystring parsing and stringifying library with some added security.
-- [react-query](https://react-query.tanstack.com/) 
+- [react-query](https://react-query.tanstack.com/):  Performant and powerful data synchronization for React
 
 ## Search
 - [text matching at frontend side](https://www.npmjs.com/package/match-sorter)
