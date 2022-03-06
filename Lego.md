@@ -8,6 +8,7 @@
 		- lazy loading
 		- animation and UI effect
 		- Load/cache API data based on if the tab is active/visited
+		- **Responsive based on screensize**
 	- React Example: [reach-ui/tab](https://reach.tech/tabs)
 
 - Toast
