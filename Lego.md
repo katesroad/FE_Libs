@@ -9,6 +9,7 @@
 		- animation and UI effect
 		- Load/cache API data based on if the tab is active/visited
 		- **Responsive based on screensize**
+		- Data driven tabs: tab options defined by backend data.
 	- React Example: [reach-ui/tab](https://reach.tech/tabs)
 
 - Toast
