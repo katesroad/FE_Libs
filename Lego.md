@@ -14,16 +14,16 @@
 
 - Modal
      - elements:
-	- footer
-	- content
-	- header
+		- footer
+		- content
+		- header
      - features
-     	- transition:
-     		- from places
-     	- scrollable content, responsive supported
-     	- accissiblities
-     	- overlay
-     	  - closeable by overlay
+		- transition:
+			- from places
+		- scrollable content, responsive supported
+		- accissiblities
+		- overlay
+		  - closeable by overlay
 
 - Tab
 	- elements
