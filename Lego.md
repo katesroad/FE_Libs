@@ -1,5 +1,28 @@
 # Frontend Legos
 
+- Menu:
+  - elements
+  	- header
+  	- menu-list
+  	- menu-item
+  - features
+    - open based on route path
+    - toggle opening status
+    - menu item can be a text or a link 
+
+- Modal
+     - elements:
+	- footer
+	- content
+	- header
+     - features
+     	- transition:
+     		- from places
+     	- scrollable content, responsive supported
+     	- accissiblities
+     	- overlay
+     	  - closeable by overlay
+
 - Tab
 	- elements
 		- tab button
@@ -22,18 +45,5 @@
 		- programatically remove/add
 	- React Eaxmple: [react-toastify](https://www.npmjs.com/package/react-toastify)
 
-- Modal
-     - elements:
-	- footer
-	- content
-	- header
-     - features
-     	- transition:
-     		- from places
-     	- scrollable content, responsive supported
-     	- accissiblities
-     	- overlay
-     	  - closeable by overlay
-        
 
 
