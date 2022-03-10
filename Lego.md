@@ -37,6 +37,11 @@
 		- Data driven tabs: tab options defined by backend data.
 	- React Example: [reach-ui/tab](https://reach.tech/tabs)
 
+- Table
+	- Elements
+	- Features
+		- Cell: Expand Cell for a list of options 	 	
+
 - Toast
 	- elements
 		- add notification
