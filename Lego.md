@@ -2,13 +2,15 @@
 
 - Menu:
   - elements
-  	- header
-  	- menu-list
-  	- menu-item
+   - header
+   - menu-list
+   - menu-item
   - features
-    - open based on route path
-    - toggle opening status
-    - menu item can be a text or a link 
+   - open based on route path
+   - toggle opening status
+   - menu item 
+    - can be a text or a link
+    - can be disabled/enabled
 
 - Modal
      - elements:
