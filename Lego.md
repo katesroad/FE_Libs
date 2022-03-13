@@ -53,4 +53,7 @@
 	- React Eaxmple: [react-toastify](https://www.npmjs.com/package/react-toastify)
 
 
+- Widget: A widget can satisfy its needs based on configuration
+
+
 
