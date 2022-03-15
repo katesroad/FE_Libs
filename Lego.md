@@ -40,7 +40,10 @@
 - Table
 	- Elements
 	- Features
-		- Cell: Expand Cell for a list of options 	 	
+		- Cell: Expand Cell for a list of options
+		- Header:
+		   - Customize column name
+		   - Customize column name based on data given from backend side   	
 
 - Toast
 	- elements
