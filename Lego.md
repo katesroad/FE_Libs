@@ -35,6 +35,7 @@
 		- Load/cache API data based on if the tab is active/visited
 		- **Responsive based on screensize**
 		- Data driven tabs: tab options defined by backend data.
+	- accessibility
 	- React Example: [reach-ui/tab](https://reach.tech/tabs)
 
 - Table
